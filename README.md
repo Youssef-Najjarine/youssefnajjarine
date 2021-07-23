@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Youssef Najjarine
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on Coding
+- Front End Developer - jQuery | React | SASS | CSS"
 - 📫 How to reach me youssefnajjarine@hotmail.com
 
 <!---
